@@ -26,5 +26,5 @@ SHA256 digest for the latest version of `macroArray`: 8584C249C308B5E8B620ED5F69
 
 [**Documentation for macroArray**](./macroarray.md "Documentation for macroArray")
 
-
+To work with a package use the [**SAS Packages Framework**](https://github.com/yabwon/SAS_PACKAGES/blob/main/README.md "SPFinit").
 
