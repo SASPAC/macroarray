@@ -22,7 +22,7 @@ The **macroArray** package implements an array, a hash table, and a dictionary c
   );
 ```
 
-SHA256 digest for the latest version of `macroArray`: F*6A22A01868F4203862B3685F543D723C7DB8E9AB3C1A6357D2BFA030971B0D3C
+SHA256 digest for the latest version of `macroArray`: F*E9C0C58FB36AC40C76A518066B8C6F9942202A9DB2C2D737E95D2BB6E4ECED50
 
 [**Documentation for macroArray**](./macroarray.md "Documentation for macroArray")
 
